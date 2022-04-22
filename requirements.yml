@@ -5,6 +5,11 @@ r_packages:
   - xaringan
   - DT
   - pagedown
+  - tidyverse
+  - spatstat
+  - sf
+  - spsurvey
+  - MBHdesign
 r_github_packages:
   - hadley/emo
   - gadenbuie/xaringanExtra
